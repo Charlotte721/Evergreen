@@ -1,0 +1,15 @@
+2023/04/06-11:57:45.927 43a4 Reusing MANIFEST D:/Charlotte/GIG/UnrealGradsFile/MyProject/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/06-11:57:45.927 43a4 Recovering log #11
+2023/04/06-11:57:45.927 43a4 Reusing old log D:/Charlotte/GIG/UnrealGradsFile/MyProject/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000011.log 
+2023/04/06-14:08:01.693 5edc Level-0 table #16: started
+2023/04/06-14:08:01.742 5edc Level-0 table #16: 13042 bytes OK
+2023/04/06-14:08:01.780 5edc Delete type=0 #11
+2023/04/06-14:08:01.783 5edc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/04/06-14:08:01.783 5edc Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00`\x17ocuxB\x00\x03\x00\x00\x00\x00\x00\x00,@' @ 695 : 1
+2023/04/06-14:08:01.783 5edc Compacting 1@1 + 1@2 files
+2023/04/06-14:08:01.854 5edc Generated table #17@1: 64 keys, 2869 bytes
+2023/04/06-14:08:01.854 5edc Compacted 1@1 + 1@2 files => 2869 bytes
+2023/04/06-14:08:01.893 5edc compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/04/06-14:08:01.893 5edc Delete type=2 #13
+2023/04/06-14:08:01.893 5edc Delete type=2 #16
+2023/04/06-14:08:01.897 5edc Manual compaction at level-1 from '\x00\x02\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00`\x17ocuxB\x00\x03\x00\x00\x00\x00\x00\x00,@' @ 695 : 1 .. (end); will stop at (end)
